@@ -1,6 +1,7 @@
 The following program uses assignment-operators. Predict what will be printed on screen (provide a code file with comments stating the output for each line). The operators + and = = have a higher priority than the assignment-operators.
 /* Assignment operators */
-    #include <stdio.h>
+
+	#include <stdio.h>
 	int main()
 	{
 	int x=2;
