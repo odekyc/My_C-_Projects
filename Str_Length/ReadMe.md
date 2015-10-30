@@ -4,44 +4,44 @@ The following program reads a string with a 30 character maximum. Implement the 
     #include <stdio.h>
 
     #define MAXLINE 30
-'''
-String lenght declaration
 
-int Length(char str[]);
+	String lenght declaration
 
-int main() 
+	int Length(char str[]);
 
-{
+	int main() 
 
-char string[MAXLINE+1]; // Line of maxium 30 chars + \0
+	{
 
-int c; // The input character
+	char string[MAXLINE+1]; // Line of maxium 30 chars + \0
 
-int i=0; // The counter
+	int c; // The input character
 
-// Print intro text
+	int i=0; // The counter
 
-printf("Type up to %d chars. Exit with ^Z\n", MAXLINE);
+	// Print intro text
+
+	printf("Type up to %d chars. Exit with ^Z\n", MAXLINE);
 
 
-// Get the characters
+	// Get the characters
 
-while ((c=getchar())!=EOF && i<MAXLINE)
+	while ((c=getchar())!=EOF && i<MAXLINE)
 
-{
+	{
 
-// Append entered character to string
+	// Append entered character to string
 
-string[i++]=(char)c;
+	string[i++]=(char)c;
 
-}
+	}
 
-string[i]='\0'; // String must be closed with \0
+	string[i]='\0'; // String must be closed with \0
 
-printf("String length is %d\n", Length(string));
+	printf("String length is %d\n", Length(string));
 
-return 0;
+	return 0;
 
-}'''
+	}
 
 /* Implement the Length() function here */
