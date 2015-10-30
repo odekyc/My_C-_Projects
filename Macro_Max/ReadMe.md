@@ -1,0 +1,1 @@
+Create the two macros MAX2(x,y) and MAX3(x,y,z). These macros must return the maximum value of the given arguments. Let the macro MAX3 make use of the macro MAX2. Add these macros to the file “Defs.h”.
