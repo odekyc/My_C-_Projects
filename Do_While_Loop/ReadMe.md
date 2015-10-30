@@ -1,0 +1,1 @@
+Rewrite the C-program word_char_count, but use do while instead of while.
