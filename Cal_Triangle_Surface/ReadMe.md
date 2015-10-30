@@ -1,0 +1,1 @@
+Write a program that calculates the surface of a triangle with one 90 degree angle. The formula is half the height multiplied by the base. The program should take an input from the user (base & height), and output the result.
