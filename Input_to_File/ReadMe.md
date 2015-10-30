@@ -1,0 +1,1 @@
+Alter the last program of exercise 1 in such a way that the output doesn’t go to the screen but is written to a file. The file to write to must be specified by the user.
