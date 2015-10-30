@@ -1,0 +1,1 @@
+Do word_char_count program again, but change your solution so that the switch-case statement is used instead of the if blocks.
