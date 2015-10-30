@@ -1,0 +1,1 @@
+Create a C-program that has a function DayName()which can print the day of a given day-number. For example: 1 gives: Day 1 is a Sunday 7 gives: Day 7 is a Saturday. The day-name (1-7) should be written "hard-coded” into the program using an array of strings.
