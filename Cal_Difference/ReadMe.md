@@ -1,0 +1,1 @@
+Write a C-program that calls a function minus(). This function receives two arguments and returns the difference (regular subtraction, not absolute). This difference should be printed on screen.
