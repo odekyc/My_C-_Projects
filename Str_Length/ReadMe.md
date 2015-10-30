@@ -1,7 +1,7 @@
 The following program reads a string with a 30 character maximum. Implement the Length() function. The function Length() must determine the length of the string. Give Length() the address of the array as argument. Note: your Length() function should be similar to the built-in strlen() function so your job is to mimic that function without using it. EOF is used in the function main(). This means End-of-File and is discussed later on in this document. In DOS, EOF can be entered by the key combination Ctrl-z (often written as ^Z). With ^Z (Say: control Z) is meant pressing the control-key and the z-key simultaneously.
 /* Calculate the length of a string */
-
-'''#include <stdio.h>
+'''
+#include <stdio.h>
 
 #define MAXLINE 30
 
