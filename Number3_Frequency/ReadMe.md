@@ -1,0 +1,1 @@
+Extend the program of exercise 6 in such a way that the frequency of number 3 is shown in words. E.g.: Number three appears two times. Only print the frequency when it is smaller than three. If the frequency is three or larger, then print: "The number three appears more than two times."
