@@ -5,13 +5,13 @@ Add the definitions to the header file and implement the functions in the source
 
 you should have the following private variables and methods for your Point class:
 private variables:
--m_x
--m_y
+*m_x
+*m_y
 methods:
--GetX()
--GetY()
--SetX()
--SetY()
--ToString()
--Distance()
--DistanceOrigin()
+*GetX()
+*GetY()
+*SetX()
+*SetY()
+*ToString()
+*Distance()
+*DistanceOrigin()
