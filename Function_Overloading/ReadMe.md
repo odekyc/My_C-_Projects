@@ -1,0 +1,1 @@
+Previously you saw that there could be more than one constructor as long as the input arguments are different. You can do the same for normal member functions. Thus you can rename the DistanceOrigin() function to Distance(). Also you can rename the SetX() andGetX() functions to just X(). The same is true for the setter and getter of the y-coordinate.
