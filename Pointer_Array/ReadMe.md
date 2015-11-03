@@ -4,4 +4,5 @@ In this exercise we make it a little more complex. With an array of Points, all 
 - Iterate the array and print each point in the array.
 - Iterate the array again and delete each point in the array.
 - Delete the array itself.
+
 Also make a drawing of the memory layout.
