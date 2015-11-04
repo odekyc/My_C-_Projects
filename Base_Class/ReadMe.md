@@ -4,7 +4,7 @@ It can be useful to create a hierarchy of related classes using base- and derive
 - You can work with derived classes as if it is the base class.
 In this exercise we are going to transform the Point and Line class into a Shape hierarchy as shown in Figure 1.
 
-![Figure 1](C:\Users\elva\Desktop\Capture.PNG)
+![Figure 1](C:\Users\elva\Desktop\Capture.png)
 
 First create a Shape base class.
 - Add a source- and header file for a Shape class.
@@ -14,7 +14,9 @@ First create a Shape base class.
 - Add an assignment operator that copies the id member.
 - Add a ToString() function that returns the id as string e.g. “ID: 123”.
 - Add an ID() function the retrieve the id of the shape.
+
 Next the Point and Line classes (and the Circle class if applicable) must derive from Shape.
+
 - Add the Shape class in the inheritance list of the Point, Line and optionally the Circle class.
 - The constructors of the Point, Line and optionally the Circle class should call the appropriate constructor in the Shapebase class.
 - The assignment operator should call the assignment operator of the Shape base class. Otherwise the shape data will not be copied.
