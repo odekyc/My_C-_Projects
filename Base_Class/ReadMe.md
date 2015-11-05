@@ -4,7 +4,8 @@ It can be useful to create a hierarchy of related classes using base- and derive
 - You can work with derived classes as if it is the base class.
 In this exercise we are going to transform the Point and Line class into a Shape hierarchy as shown in Figure 1.
 
-![Figure 1](/images/Capture.png)
+![Figure1](https://raw.github.com/odekyc/My_Cplusplus_Projects/blob/master/Base_Class/Capture.png)
+
 
 
 
