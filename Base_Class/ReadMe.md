@@ -6,6 +6,8 @@ In this exercise we are going to transform the Point and Line class into a Shape
 
 ![Figure 1](C:\Users\elva\Documents\GitHub\My_Cplusplus_Projects\Base_Class\Capture.png)
 
+
+
 First create a Shape base class.
 - Add a source- and header file for a Shape class.
 - Add a data member for an id number of type int.
