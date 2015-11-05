@@ -4,7 +4,7 @@ It can be useful to create a hierarchy of related classes using base- and derive
 - You can work with derived classes as if it is the base class.
 In this exercise we are going to transform the Point and Line class into a Shape hierarchy as shown in Figure 1.
 
-![Figure 1](Base_Class/Capture.PNG)
+![Figure 1](Base_Class/Capture.png)
 
 First create a Shape base class.
 - Add a source- and header file for a Shape class.
